@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/249542.jpeg",
+        "alt": "Mac BookPro-1",
+        "name": "Mac BookPro-1",
+        "button": "View Mac BookPro"
+    },
+    {
+        "img": "../assets/images/2047905.jpg",
+        "alt": "Mac BookPro-2",
+        "name": "Mac BookPro-2",
+        "button": "View Mac BookPro"
+    },
+    {
+        "img": "../assets/images/2473183.jpeg",
+        "alt": "Mac BookPro-3",
+        "name": "Mac BookPro-3",
+        "button": "View Mac BookPro"
+    },
+    {
+        "img": "../assets/images/7625410.jpeg",
+        "alt": "Mac BookPro-4",
+        "name": "Mac BookPro-4",
+        "button": "View Mac BookPro"
+    }
+]
