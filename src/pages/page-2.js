@@ -10,6 +10,9 @@ const SecondPage = () => (
     <p>Welcome to page 2</p>
     <Link to="/">Go back to the homepage</Link>
     <Link to="/">Go back to the homepage</Link>
+    <p>Welcome to page 2</p>
+    <p>Welcome to page 2</p>
+    <p>Welcome to page 2</p>
   </Layout>
 )
 
